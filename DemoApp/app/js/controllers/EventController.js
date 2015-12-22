@@ -3,5 +3,6 @@
 eventsApp.controller('EventController',
 		function EventController($scope) {
 	
+	
 		}
 );
